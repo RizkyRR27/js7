@@ -21,10 +21,14 @@ public class DoWhile25 {
                 System.out.println("Sisa jatah cuti: " + jatahCuti);
                 }
              else {
-             System.out.println("Sisa jatah cuti anda tidak mencukupi, coba deh masukin lagi");
-            continue;
+             System.out.println("Sisa jatah cuti anda tidak mencukupi, coba deh masukin lagi!");
+    continue;
             }
         } 
+
+        
+        
+        
     }
  while (jatahCuti > 0);
 
